@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Gelasio|Oswald&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+ 
+
+	body {
+		font-family: 'Oswald', sans-serif;
+	    font-size: 18px;
+	}
+		
+
+h1,h2,h3 { 
+	font-family: 'Gelasio', serif;
+	font-weight: bold;
+}
+	
+ a{
+ 	text-decoration: none;
+ }
+
+ .container {
+ 	  position: relative;
+ }
